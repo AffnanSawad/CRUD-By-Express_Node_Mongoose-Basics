@@ -16,3 +16,9 @@ Here’s why developers use Mongoose:
 ✅ Query Simplification – Provides powerful query-building methods.
 ✅ Relationships (Population) – Links documents from different collections.
 ✅ Timestamps & Defaults – Automatically manages creation and update times.
+---------------------------------------------------------------
+
+Steps :
+
+1.  Installing express , mongoose, typescript, dotenv ,cors .
+2. Installing eslint, refactor code, fix errors using command .=>
